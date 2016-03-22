@@ -1,0 +1,35 @@
+!
+Question #1 How many planets in our Solar System. 
+A.4
+B.3
+C.8
+D.9
+-
+$
+Question #2 Who was the 2nd person to walk on the moon?
+A.Neil Armstrong
+B.Pete Conrad
+C.Buzz Aldrin
+D.Alan Bean
+-
+^
+Question #3 When did the Pearl Harbor attack occur?
+A.1939
+B.1940
+C.1941
+D.1942
+-
+*
+Question #4 What is number of states in USA?
+A.24
+B.50
+C.60
+D.49
+-
+@
+Question #5 Which State of USA was once part of Mexico?
+A.Texas
+B.MaryLand
+C.New York
+D.Alaska
+-

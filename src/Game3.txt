@@ -1,0 +1,35 @@
+!
+Question #1 How many sessions are there in football game. 
+A 4
+B 5
+C 8
+D 9
+-
+$
+Question #2 How long(minutes) is soccer game?
+A 50
+B 70
+C 90
+D 80
+-
+^
+Question #3 How long(minutes) is one quarter in basketball game?
+A 10
+B 11
+C 12
+D 13
+-
+*
+Question #4 How many players does each team have in a cricket game?
+A 8
+B 9
+C 10
+D 11
+-
+@
+Question #5 Number of players on each team in a game of baseball?
+A 9
+B 5
+C 7
+D 4
+-

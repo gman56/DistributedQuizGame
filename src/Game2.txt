@@ -1,0 +1,35 @@
+!
+Question #1 A system in which the components of an information system are distributed to multiple locations in a computer network is known as a:
+A.database system
+B.networked system
+C.distributed system
+D.communication system
+-
+$
+Question #2 An application system can be mapped into how many different layers?
+A.4
+B.3
+C.8
+D.none of above
+-
+^
+Question #3 ______ of the distributed file system are dispersed among various machines of distributed system.
+A.Clients
+B.Servers
+C.Storage Devices
+D.all of above
+-
+*
+Question #4 Processes on the remote systems are identified by
+A.host ID
+B.host name and identifier
+C.identifier
+D.process ID
+-
+@
+Question #5 The TCP protocol is responsible (among other things) for?
+A.Routing packets through the network.
+B.Reliable delivery of packets between directly connected machines.
+C.Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected.
+D.Dealing with differences among operating system architectures.
+-
